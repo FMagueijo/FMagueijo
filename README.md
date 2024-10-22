@@ -1,15 +1,15 @@
-## Hey, I'm [Francisco](https://fmagueijo.dev/) 👋 - Welcome to my GitHub page!
+## <b>Hey, I'm [Francisco](https://fmagueijo.dev/) 👋 - Welcome to my GitHub page!</b>
 
-### 📝 About me:
+### <b>📝 About me:</b>
 
 I'm a Computer Science student from 🇵🇹 <b>Castelo Branco, Portugal</b> with a passion for game development and software development/engineering. I like to dive into different projects and learn new stuff along the way. Whether I’m working on a game or building some software, I’m always down to pick up new skills and try something different.
 
-#### 🗣️ I speak:
+#### <b>🗣️ I speak:</b>
 - 🇵🇹 Portuguese 
 - 🇬🇧 English
 - 🇪🇸 Spanish
 
-#### 🎨 Hobbies:
+#### <b>🎨 Hobbies:</b>
 - Gaming 👾 
 - Watching Movies/Series 🍿 
 - Long Walks 🚶 
@@ -18,9 +18,9 @@ I'm a Computer Science student from 🇵🇹 <b>Castelo Branco, Portugal</b> wit
 
 ---
 
-### 🛠️ Tech & Tools:
+### <b>🛠️ Tech & Tools:</b>
 
-- <b>Languages </b>
+#### <b>Languages </b>
 
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
@@ -34,13 +34,13 @@ I'm a Computer Science student from 🇵🇹 <b>Castelo Branco, Portugal</b> wit
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 
-- <b>IDE </b>
+#### <b>IDE </b>
 
   [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
 
-- <b>Frameworks </b>
+#### <b>Frameworks </b>
 
   [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
