@@ -44,20 +44,17 @@ I'm a Computer Science student from 🇵🇹 <b>Castelo Branco, Portugal</b> wit
 
 #### <b>🖼 Frameworks:</b>
 
-  [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-<!--
-**FMagueijo/FMagueijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <b>🛜 Where can you find me: </b>
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/FMagueijo)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-magueijo/)
+[![X](https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/FranMagueijo)
+
+
+
