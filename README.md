@@ -57,4 +57,13 @@ I'm a Computer Science student from 🇵🇹 <b>Castelo Branco, Portugal</b> wit
 [![X](https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/FranMagueijo)
 
 
+---
 
+<div styyle="text-align:center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FMagueijo&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FMagueijo&layout=compact&langs_count=8&card_width=500px&theme=dark" />
+  </a>
+</div>
