@@ -51,7 +51,7 @@ I'm a Computer Science student from 🇵🇹 <b>Castelo Branco, Portugal</b> wit
 ---
 
 
-### <b>🛜 Where can you find me: </b>
+### <b>🌐 Where can you find me: </b>
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/FMagueijo)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-magueijo/)
 [![X](https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/FranMagueijo)
